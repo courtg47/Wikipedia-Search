@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/courtg47/pen/LbdRey.
-
- This search Wikipedia app allows you to search anything on Wikipedia and return the results on this page. You will see a title and description of each item and you will be able to click the title to take you to that specific Wikipedia page. There is also an option to click a link for a random Wikipedia article.  This app was created by Courtney Green.
+This search Wikipedia app allows you to search anything on Wikipedia and return the results on this page. You will see a title and description of each item and you will be able to click the title to take you to that specific Wikipedia page. There is also an option to click a link for a random Wikipedia article.  This app was created with HTML, CSS, JavaScript, and JQuery and utilized AJAX to process the Wikipedia API.
