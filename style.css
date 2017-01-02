@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  margin: 30px;
+}
+
+/*Search box*/
+#search-frm {
+  margin: 20px;
+  width: 400px;
+  height: 30px;
+  border: 2px solid #0277BD;
+}
+
+/*Submit button*/
+#search-btn {
+  padding: 8px 50px;
+  font-size: 16px;
+  background-color: #0277BD;
+  border-radius: 0;
+}
+
+#search-btn:hover {
+  background: white;
+  color: #0277BD;
+  border: 2px solid #0277BD;
+  font-weight: bold;
+}
+
+/*How the results are displayed*/
+li {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  list-style: none;
+  padding: 25px 40px;
+  border: 2px solid #026CAB;
+  background-color: #0277BD;
+  color: white;
+  box-shadow: 0px 10px 10px 0px gray;
+}
+
+/*link for random article*/
+#randomArticle {
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+a {
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Philosopher', sans-serif;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+  outline: 2px solid #77BD02;
+}
+
+/*Wikipedia logo*/
+img {
+  height: 20%;
+  width: 20%;
+  margin-top: 50px;
+}
+
+/*Display results*/
+#output {
+  margin-bottom: 80px;
+}
